@@ -7,4 +7,4 @@ Using basic HTML functionalities:
 -Learning to use git properly
 PROJECT IS DONE:
 it was quite easy i am not gonna lie. looking forward to build next projects!
-I am aware of my not really propper use of git, but i will try to polish it.
+I am aware of my not really propper use of git, but i will try to polish it. UPDATE: new assingment add css files to the project
