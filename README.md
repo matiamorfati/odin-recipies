@@ -8,4 +8,3 @@ Using basic HTML functionalities:
 PROJECT IS DONE:
 it was quite easy i am not gonna lie. looking forward to build next projects!
 I am aware of my not really propper use of git, but i will try to polish it. UPDATE: new assingment add css files to the project
-https://1drv.ms/f/s!AouOiyP3kd6GgZ9QJ-9jvr5e0r_P4A
